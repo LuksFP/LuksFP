@@ -1,22 +1,58 @@
-# Hello, Im Lucas, and, Welcome to my profile 
+👋 Sobre mim
 
-## Social Medias
-[![Gmail](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-kayck-franco-pinheiro-bb3971246//)
-[![Gmail](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/ls-projects-a1b8ab70/)
+Sou desenvolvedor Front-end em transição para Fullstack, apaixonado por criar interfaces modernas, funcionais e com foco em experiência do usuário.
+Além do código, também atuo como beta reader, editor de textos e editor de fotos e vídeos, unindo tecnologia e criatividade em tudo o que faço.
 
+Atualmente, estou focado em evoluir minhas habilidades em JavaScript, TypeScript, React e Node.js, construindo projetos reais e buscando constantemente sair da zona de conforto para crescer como profissional.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuksFP&show_icons=true&theme=dark)
+💼 O que eu faço
 
-## My Skills
-<div style="display: inline_block"><br/>
-  <img align="center" alt="javaxcript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img align="center" alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img align="center" alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
- 	<img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img align="center" alt="node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img align="center" alt="css" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
-  <img align="center" alt="react router" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
+💻 Desenvolvimento Front-end (React, HTML, CSS, JS, TS)
 
-</div>
+🔄 Em transição para Fullstack (Node.js, APIs, bancos de dados)
+
+✍️ Beta reader para escritores e criadores de conteúdo
+
+🎨 Edição de fotos e vídeos para projetos digitais
+
+📈 Criação de soluções voltadas para produtos digitais e SaaS
+
+🛠️ Tecnologias & Ferramentas
+
+Front-end
+
+React • TypeScript • JavaScript
+
+HTML5 • CSS3 • Tailwind
+
+Back-end (em evolução)
+
+Node.js • Express
+
+APIs REST
+
+Outros
+
+Git & GitHub
+
+Figma
+
+Photoshop • Premiere
+
+🎯 Objetivo profissional
+
+Construir uma carreira sólida como desenvolvedor Fullstack, participando de projetos que gerem impacto real, aprendendo continuamente e colaborando com pessoas que também acreditam no poder da tecnologia para transformar ideias em soluções.
+
+🤝 Vamos nos conectar?
+
+Se você é:
+
+Recrutador
+
+Dev
+
+Empreendedor
+
+Criador de conteúdo
+
+📩 Me chama no LinkedIn — adoro trocar ideias, aprender e colaborar em novos projetos!
