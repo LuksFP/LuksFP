@@ -1,20 +1,18 @@
 <div align="center">
 
-<!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Lucas+Kayck+%F0%9F%91%8B;Full+Stack+Developer;Clean+Architecture+%7C+CI%2FCD;Building+real+products+from+Brazil+%F0%9F%87%A7%F0%9F%87%B7)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Lucas+Kayck+%F0%9F%91%8B;Full+Stack+Developer+%40+PowerTec;Clean+Architecture+%7C+CI%2FCD+%7C+SOLID;Building+real+production+systems+%F0%9F%87%A7%F0%9F%87%B7)](https://git.io/typing-svg)
 
 <br/>
 
-<!-- Badges de status -->
 <a href="https://www.linkedin.com/in/luksfp" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;
-<img src="https://img.shields.io/badge/Open%20to%20Work-2ea44f?style=for-the-badge&logo=github&logoColor=white" />
+<a href="https://github.com/LuksFP" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 &nbsp;
-<img src="https://img.shields.io/badge/Brazil-009c3b?style=for-the-badge&logo=googlemaps&logoColor=white" />
-
-<br/><br/>
+<img src="https://img.shields.io/badge/Guarujá,_SP_🇧🇷-009c3b?style=for-the-badge" />
 
 </div>
 
@@ -27,19 +25,29 @@ const lucas = {
   name:     "Lucas Kayck Franco Pinheiro",
   alias:    "Stark",
   role:     "Full Stack Developer",
-  company:  "PowerTec Tecnologia",
-  location: "Brasil 🇧🇷",
+
+  experience: [
+    "PowerTec Tecnologia    — sistemas em produção para academias e municípios",
+    "Prefeitura de Guarujá  — portal de transparência pública com PWA e ombudsman",
+  ],
+
+  education: [
+    "ADS — Universidade Santa Cecília",
+    "Técnico em Redes — SENAI",
+  ],
+
+  currentlyBuilding: "Enrollment System v2.1 — matrículas, pagamentos, acesso e reconhecimento facial",
+  alsoBuilding:      "CellStore — gestão de estoque para loja de acessórios mobile",
 
   focus: [
     "Clean Architecture",
     "SOLID Principles",
-    "CI/CD Pipelines",
-    "Production-grade systems",
+    "CI/CD with GitHub Actions",
+    "Production-grade TypeScript systems",
   ],
 
-  currentlyBuilding: "Enrollment System v2.1 — academias & instituições municipais",
-  learning:          ["Rust", "Penetration Testing", "Azure App Service"],
-  askMeAbout:        ["TypeScript", "Node.js", "React", "Prisma", "PostgreSQL"],
+  learning: ["Rust", "Penetration Testing (Kali Linux)", "Azure App Service"],
+  stack:    ["TypeScript", "React", "Node.js", "PostgreSQL", "Prisma", "Docker"],
 };
 ```
 
@@ -71,6 +79,7 @@ const lucas = {
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" />
   <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
 </div>
 
 ### Tools & Environment
@@ -79,19 +88,22 @@ const lucas = {
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
 </div>
 
 ---
 
 ## 🚀 Featured Projects
 
-| Project | Description | Stack | Deploy |
-|--------|-------------|-------|--------|
-| **Enrollment System v2.1** | Sistema de matrículas, pagamentos, controle de acesso e reconhecimento facial para academias | `TypeScript` `React` `Node` `PostgreSQL` `face-api.js` | Vercel + Render |
-| **CellStore** | Inventory management system para loja de acessórios mobile com Clean Architecture em monorepo | `TypeScript` `React` `Node` `Prisma` `CI/CD` | Vercel + Render |
-| **Municipal Transparency Portal** | Portal de transparência pública com PWA, ombudsman ticketing e serviços ao cidadão | `Next.js` `Node` `PostgreSQL` `Docker` | — |
-| **EduPlatform** | Plataforma de cursos corporativos com processamento de vídeo, certificados e RBAC | `TypeScript` `React` `Node` `AWS EC2` `JWT` | AWS |
-| **JARVIS AI Assistant** | Voice assistant com IA, TTS e interface conversacional em tempo real | `React` `Node` `Groq API` `ElevenLabs` | Railway + Vercel |
+| Project | Description | Stack |
+|--------|-------------|-------|
+| [**Enrollment System v2.1**](#) | Sistema completo de matrículas, pagamentos, controle de acesso físico e reconhecimento facial — em produção em academias reais | `TypeScript` `React` `Node` `PostgreSQL` `face-api.js` `GitHub Actions` |
+| [**CellStore**](#) | Inventory management em monorepo com Clean Architecture, CI/CD completo e deploy automatizado | `TypeScript` `React` `Node` `Prisma` `Docker` `Vercel` `Render` |
+| [**Municipal Transparency Portal**](#) | Portal de transparência para Prefeitura de Guarujá com ombudsman ticketing, PWA e Docker | `Next.js` `Node` `PostgreSQL` `Docker` `PWA` |
+| [**EduPlatform**](#) | Plataforma de cursos corporativos com processamento de vídeo, geração de certificados e RBAC | `TypeScript` `React` `Node` `AWS EC2` `JWT` |
+| [**JARVIS AI Assistant**](#) | Voice assistant com IA generativa e TTS em tempo real | `React` `Node` `Groq API` `ElevenLabs` `Railway` |
+| [**System Monitor Dashboard**](#) | Dashboard de observabilidade com Swagger docs, testes Jest e deploy no Render | `Node` `TypeScript` `PostgreSQL` `Prisma` `Swagger` `Jest` |
 
 ---
 
@@ -99,15 +111,15 @@ const lucas = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=luksfp&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuksFP&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF" />
 &nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luksfp&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&langs_count=8" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuksFP&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&langs_count=8" />
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=luksfp&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=LuksFP&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E)](https://git.io/streak-stats)
 
 </div>
 
@@ -117,12 +129,13 @@ const lucas = {
 
 > *"Good software isn't just working software — it's software that's easy to change."*
 
-Acredito que código de qualidade exige intenção. Cada projeto que construo segue princípios que vão além do "funcionar":
+Trabalho com sistemas reais em produção — academias, prefeituras, lojas — onde bugs têm consequência. Isso moldou minha forma de escrever código:
 
-- 🧱 **Clean Architecture** — separação real de responsabilidades, sem atalhos
-- 📐 **SOLID** — código que escala sem virar espaguete
-- 🔄 **CI/CD** — deploy com confiança, não com fé
-- 🧪 **Testabilidade** — se não dá pra testar, o design está errado
+- 🧱 **Clean Architecture** — camadas bem definidas, sem acoplamento desnecessário
+- 📐 **SOLID** — cada peça com responsabilidade clara e extensível
+- 🔄 **CI/CD** — GitHub Actions em todo projeto; deploy com confiança, não com fé
+- 🧪 **Testabilidade** — se não dá pra testar isolado, o design está errado
+- 📦 **Monorepo quando faz sentido** — frontend, backend e shared types no mesmo lugar
 
 ---
 
@@ -130,7 +143,7 @@ Acredito que código de qualidade exige intenção. Cada projeto que construo se
 
 <div align="center">
 
-<a href="mailto:luksfp@email.com">
+<a href="mailto:lucas.kfrancopinheiro@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 &nbsp;
@@ -138,18 +151,18 @@ Acredito que código de qualidade exige intenção. Cada projeto que construo se
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;
-<a href="https://github.com/luksfp" target="_blank">
+<a href="https://github.com/LuksFP" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=luksfp&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=LuksFP&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS" />
 
 </div>
 
 ---
 
 <div align="center">
-  <sub>Built with intentionality — from Brazil 🇧🇷</sub>
+  <sub>Built with intentionality — from Guarujá, Brazil 🇧🇷</sub>
 </div>
